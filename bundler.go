@@ -13,9 +13,9 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/RebelBIrd/go-astilectron"
 	"github.com/akavel/rsrc/rsrc"
 	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
 	"github.com/asticode/go-bindata"
 	"github.com/sam-kamerer/go-plister"
 )
